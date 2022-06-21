@@ -1,5 +1,11 @@
+import { Event } from "./pages/Event";
+
 function App() {
-  return <h1>Hello Word</h1>;
+  return (
+    <div>
+      <Event />
+    </div>
+  )
 }
 
 export default App;
