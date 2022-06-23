@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        blue: 'url(/src/assets/blur-background.png)'
+      },
       fontFamily: {
         sans: 'Roboto, sans-serif',
       },
