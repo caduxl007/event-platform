@@ -8,6 +8,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/) 
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [GraphQL](https://graphql.org/)
+- [GraphCMS](https://graphcms.com/)
+- [VimeJS](https://vimejs.com/getting-started/installation)
 
 ## 👀 Features
 
